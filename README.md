@@ -1,6 +1,6 @@
-# ElixirAlgorithms
+# Elixir Algorithms
 
-**TODO: Add description**
+This repository contains Elixir based examples of many algorithms
 
 ## Installation
 
